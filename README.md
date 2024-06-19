@@ -99,6 +99,5 @@
     Gender: Female
     Age: 38-43 years
     
-<img src="![Uploading image.png…]()
-">
+<img src="![Uploading image.png…]()">
               
