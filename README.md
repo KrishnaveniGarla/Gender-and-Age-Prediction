@@ -99,5 +99,6 @@
     Gender: Female
     Age: 38-43 years
     
-<img src="/Users/krishnaveni/Desktop/Gender-and-Age-Detection-master/Example/Detecting age and gender girl1.png">
+<img src="![Uploading image.png…]()
+">
               
