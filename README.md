@@ -69,36 +69,40 @@
     Gender: Female
     Age: 8-12 years
     
-![girl2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/3c4c2e19-a4bd-4f56-803a-2563605f9672)
+![Detecting age and gender girl2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/97ba02b6-5593-42c8-9a23-b04883d013f0)
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-![kid1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/791823bb-f3d0-4167-acda-e06952009a90)
+![Detecting age and gender kid1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/a1acdadd-8816-453b-86d8-7e6a347c01ab)
 
     >python detect.py --image kid2.jpg
     Gender: Female
     Age: 4-6 years  
     
-![kid2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/2558fe91-fb39-4906-8782-74038d85f67e)
+![Detecting age and gender kid2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/e6912f84-b112-4a73-a6f8-12f368eaab94)
+
 
     >python detect.py --image man1.jpg
     Gender: Male
     Age: 38-43 years
     
-![man1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/1e10a4e3-ebe4-4fba-8c83-ddace2564b5b)
+![Detecting age and gender man1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/89d701e6-0262-4158-92c7-734fe90be1b9)
+
 
     >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
-![man2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/ff4c2006-3f65-4686-9097-f1e9b0a9a0bc)
+![Detecting age and gender man2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/f0199df9-f6e1-4899-9d81-883263604dfc)
+
 
     >python detect.py --image woman1.jpg
     Gender: Female
     Age: 38-43 years
     
-![woman1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/97bc2d60-f3a4-47c5-98bb-cb3b8f2620b0)
+![Detecting age and gender woman1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/b867e719-2069-446a-b12d-222c9f8dcc12)
+
 
               
