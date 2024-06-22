@@ -69,35 +69,36 @@
     Gender: Female
     Age: 8-12 years
     
-<img src="Example/Detecting age and gender girl2.png">
+![girl2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/3c4c2e19-a4bd-4f56-803a-2563605f9672)
 
     >python detect.py --image kid1.jpg
     Gender: Male
     Age: 4-6 years    
     
-<img src="Example/Detecting age and gender kid1.png">
+![kid1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/791823bb-f3d0-4167-acda-e06952009a90)
 
     >python detect.py --image kid2.jpg
     Gender: Female
     Age: 4-6 years  
     
-<img src="Example/Detecting age and gender kid2.png">
+![kid2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/2558fe91-fb39-4906-8782-74038d85f67e)
 
     >python detect.py --image man1.jpg
     Gender: Male
     Age: 38-43 years
     
-<img src="Example/Detecting age and gender man1.png">
+![man1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/1e10a4e3-ebe4-4fba-8c83-ddace2564b5b)
 
     >python detect.py --image man2.jpg
     Gender: Male
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender man2.png">
+![man2](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/ff4c2006-3f65-4686-9097-f1e9b0a9a0bc)
 
     >python detect.py --image woman1.jpg
     Gender: Female
     Age: 38-43 years
     
-<img src="![Uploading image.png…]()">
+![woman1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/97bc2d60-f3a4-47c5-98bb-cb3b8f2620b0)
+
               
