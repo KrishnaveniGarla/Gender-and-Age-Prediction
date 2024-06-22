@@ -104,5 +104,10 @@
     
 ![Detecting age and gender woman1](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/b867e719-2069-446a-b12d-222c9f8dcc12)
 
+### Contributing
 
+Contributions are welcome! Please feel free to submit a Pull Request.
               
+### License
+
+This project is licensed under the 
