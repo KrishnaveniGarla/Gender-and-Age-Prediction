@@ -63,7 +63,7 @@
     Gender: Female
     Age: 25-32 years
     
-<img src="Example/Detecting age and gender girl1.png">
+![image](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/assets/170930248/79d17632-86d6-4f10-ae19-4d0911027c2c)
 
     >python detect.py --image girl2.jpg
     Gender: Female
