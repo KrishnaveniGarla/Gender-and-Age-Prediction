@@ -110,4 +110,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
               
 ### License
 
-This project is licensed under the ![MIT license](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/tree/main?tab=MIT-1-ov-file#:~:text=README-,MIT%20license,-MIT%20License%0A%0ACopyright) - see the LICENSE file for details.
+This project is licensed under the [MIT license](https://github.com/KrishnaveniGarla/Gender-and-Age-Prediction/tree/main?tab=MIT-1-ov-file#:~:text=README-,MIT%20license,-MIT%20License%0A%0ACopyright) - see the LICENSE file for details.
